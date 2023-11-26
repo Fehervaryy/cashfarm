@@ -1,0 +1,12 @@
+{
+    "transactions": [
+        {
+            "title" : "Walmart", 
+            "total": 109.29,
+            "date": "October 23, 2023",
+            "tag": "Grocery",
+            "id": 1
+
+        }
+    ]
+}
